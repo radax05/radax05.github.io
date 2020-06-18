@@ -12,3 +12,11 @@ Somit ist hier die kurze Beschreibung des Charakters:  Keine Beschreibung
 * mag item_2
 * mag item_3
 * mag item_4 nicht
+
+## Zitat ##
+
+Das hat mein Lieblingscharakter mal gesagt:
+> Zitat Zeile 1
+> Zitat Zeile 2
+> Zitat Zeile 3
+
