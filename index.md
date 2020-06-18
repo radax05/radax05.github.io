@@ -20,3 +20,7 @@ Das hat mein Lieblingscharakter mal gesagt:
 > Zitat Zeile 2
 > Zitat Zeile 3
 
+## Bild Lieblingscharakter ##
+
+<img src='https://avatars2.githubusercontent.com/in/15368?s=88&v=4'/>
+
