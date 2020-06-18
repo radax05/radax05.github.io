@@ -8,7 +8,7 @@ Lösung
 Somit ist hier die kurze Beschreibung des Charakters:  Keine Beschreibung
 
 ## Charaktereigenschaften ##
-mag item_1
-mag item_2
-mag item_3
-mag item_4 nicht
+* mag item_1
+* mag item_2
+* mag item_3
+* mag item_4 nicht
