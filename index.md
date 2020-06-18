@@ -6,3 +6,9 @@ Hierfür sollst du Klartext schreiben, also ohne besondere Formatierungen oder G
 
 Lösung
 Somit ist hier die kurze Beschreibung des Charakters:  Keine Beschreibung
+
+## Charaktereigenschaften ##
+* mag item_1
+* mag item_2
+* mag item_3
+* mag item_4 nicht
